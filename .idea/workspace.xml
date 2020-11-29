@@ -40,7 +40,7 @@
       <workItem from="1606210106811" duration="363000" />
       <workItem from="1606210499087" duration="916000" />
       <workItem from="1606212105872" duration="269000" />
-      <workItem from="1606667074894" duration="1235000" />
+      <workItem from="1606667074894" duration="3542000" />
     </task>
     <servers />
   </component>
@@ -56,16 +56,5 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-1280.0.1280.984@0.0.1366.728" timestamp="1606667187191" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/src/App.js</url>
-          <line>1</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
